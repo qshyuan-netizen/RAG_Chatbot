@@ -1,5 +1,5 @@
 # RAG_Chatbot
-Ask AI to answer questions based on an external pdf file; grasp the concept RAG (Retrieval Augmented Generation).
+Ask AI to answer questions based on a private pdf file; grasp the concept RAG (Retrieval Augmented Generation).
 
 RAG: (user query + contents retrieved from the pdf which are semantically similar) -> LLM -> answer generation.
 
